@@ -1,6 +1,13 @@
 # Elite-Schedule-App-for-Sports-Enthusiasts
 💪⚽🏃🏻🏆🏑 🏓 🥍 🏸 🎣 ⛸️ 🛷
 
+
+[![Framework](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=whi)]()
+[![Framework](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)]()
+[![Language](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+
+
+
 ## ✍️ About 
 This Angular Ionic app serves as a comprehensive platform for sports enthusiasts, offering features like 
 team management and tournament exploration. The app leverages Ionic framework and Angular to provide a 
